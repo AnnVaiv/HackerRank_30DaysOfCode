@@ -1,3 +1,5 @@
+package first10;
+
 import java.util.*;
 
 public class Solution4 {//In challenge was Person class and constructor

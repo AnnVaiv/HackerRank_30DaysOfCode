@@ -1,3 +1,5 @@
+package first10;
+
 import java.io.*;
 import java.util.*;
 import java.text.*;
