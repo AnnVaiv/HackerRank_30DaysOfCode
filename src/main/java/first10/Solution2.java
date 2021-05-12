@@ -2,7 +2,7 @@ package first10;
 
 import java.io.*;
 
-class Result {
+class Result2 {
 
     /*
      * Complete the 'solve' function below.
@@ -33,7 +33,7 @@ public class Solution2 {
 
         int tax_percent = Integer.parseInt(bufferedReader.readLine().trim());
 
-        Result.solve(meal_cost, tip_percent, tax_percent);
+        Result2.solve(meal_cost, tip_percent, tax_percent);
 
         bufferedReader.close();
     }
